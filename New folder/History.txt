@@ -1,0 +1,10 @@
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Pizza: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate French Toast: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
+Calculate Tacos: Ingredient 1: 0, Ingredient 2: 0, Ingredient 3: 0
